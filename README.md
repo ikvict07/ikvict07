@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07&show_icons=true&line_height=45)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07&show_icons=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikvict07&hide=javascript,html,css,scss)
 
 ### Tools
