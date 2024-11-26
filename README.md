@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07&show_icons=true)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikvict07&hide=javascript,html,css,scss)
 
 ### Tools
