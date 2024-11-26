@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,css,scss)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikvict07&hide=javascript,html,css,scss)
 
 ### Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
