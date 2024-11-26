@@ -10,5 +10,4 @@
 ![k8s](https://img.shields.io/badge/-k8s-%23272933?style=for-the-badge&logo=kubernetes&logoColor=CE6B87)
 ![Git](https://img.shields.io/badge/-Git-%23272933?style=for-the-badge&logo=git&logoColor=CE6B87)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23272933?style=for-the-badge&logo=github&logoColor=CE6B87)
-![Azure](https://img.shields.io/badge/-Azure-%23272933?style=for-the-badge&logo=microsoft-azure&logoColor=CE6B87)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-%23272933?style=for-the-badge&logo=google-cloud&logoColor=CE6B87)
