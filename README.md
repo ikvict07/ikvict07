@@ -7,6 +7,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-%23272933?style=for-the-badge&logo=spring&logoColor=CE6B87)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23272933?style=for-the-badge&logo=postgresql&logoColor=CE6B87)
 ![Docker](https://img.shields.io/badge/-Docker-%23272933?style=for-the-badge&logo=docker&logoColor=CE6B87)
+![k8s](https://img.shields.io/badge/-k8s-%23272933?style=for-the-badge&logo=kubernetes&logoColor=CE6B87)
 ![Git](https://img.shields.io/badge/-Git-%23272933?style=for-the-badge&logo=git&logoColor=CE6B87)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23272933?style=for-the-badge&logo=github&logoColor=CE6B87)
 ![Azure](https://img.shields.io/badge/-Azure-%23272933?style=for-the-badge&logo=microsoft-azure&logoColor=CE6B87)
