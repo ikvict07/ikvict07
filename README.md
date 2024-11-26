@@ -3,6 +3,7 @@
 
 ### Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=kotlin)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
