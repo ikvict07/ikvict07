@@ -11,3 +11,5 @@
 ![Git](https://img.shields.io/badge/-Git-%23272933?style=for-the-badge&logo=git&logoColor=CE6B87)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23272933?style=for-the-badge&logo=github&logoColor=CE6B87)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-%23272933?style=for-the-badge&logo=google-cloud&logoColor=CE6B87)
+
+![CodeWars](https://www.codewars.com/users/Ikvict/badges/large)
