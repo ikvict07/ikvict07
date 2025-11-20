@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07&show_icons=true&line_height=40&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikvict07&hide=javascript,html,css,scss&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikvict07&show_icons=true&line_height=40&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikvict07&hide=javascript,html,css,scss,jupyter%20notebook&theme=dracula)
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/java-%23272933?style=for-the-badge&logo=openjdk&logoColor=CE6B87)
