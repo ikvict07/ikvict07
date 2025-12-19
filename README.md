@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="margin: 80px 0;">
   <img src="MakeJar.svg" alt="MakeJar" height="600">
 </p>
 
